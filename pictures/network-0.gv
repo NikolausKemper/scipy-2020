@@ -1,0 +1,17 @@
+// Network::graphviz
+digraph "network-0" {
+	graph [overlap=scale ranksep=2.0 splines=true]
+	node [shape=hexagon style=filled]
+	node [shape=hexagon]
+	0 [label=BWR]
+	1 [label="High Pressure Turbine"]
+	2 [label="Low Pressure Turbine 1"]
+	3 [label="Low Pressure Turbine 2"]
+	4 [label=Condenser]
+	0 -> 1
+	1 -> 2
+	1 -> 3
+	2 -> 4
+	3 -> 4
+	4 -> 0
+}

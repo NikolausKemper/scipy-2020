@@ -9,10 +9,11 @@ SciPy-2020 poster on BWR Cortix application detailing theory and results, on vir
 
 References:
 
-[Cortix](https://cortix.org/)
+ + [Cortix](https://cortix.org/)
+ + [Eng-4350: Nuclear Reactor Engineering: course notes](https://github.com/dpploy/engy-4350)
 
-[IAPWS 97 Standards](http://www.iapws.org/relguide/IF97-Rev.html)
+ + [IAPWS 97 Standards](http://www.iapws.org/relguide/IF97-Rev.html)
 
-[IAPWS Pypi Library](https://pypi.org/project/iapws/)
+ + [IAPWS PyPi Library](https://pypi.org/project/iapws/)
 
-Nuclear Energy Conversion, M. M. El-Wakil, ANS, 1982, 666 pp.
+ + Nuclear Energy Conversion, M. M. El-Wakil, ANS, 1982, 666 pp.

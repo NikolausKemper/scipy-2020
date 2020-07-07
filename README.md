@@ -1,11 +1,10 @@
-# SciPy-2020
+# [SciPy Conference 2020](https://www.scipy2020.scipy.org/schedule)
+
+First online conference; July 6-12 2020.
 
 View the poster on `NBViewer`: [![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/dpploy/scipy-2020/blob/master/poster.ipynb)
 
-[SciPy 2020 schedule](https://www.scipy2020.scipy.org/schedule)
-Virtual conference July 6-12
-
-SciPy-2020 poster: *Balance of Plant Network Simulation for a Boiling Water Nuclear Reactor* on virtual display from June 29th to July 9th.
+*Balance of Plant Network Simulation for a Boiling Water Nuclear Reactor* on virtual display from June 29th to July 9th.
 
 |  |
 |---|

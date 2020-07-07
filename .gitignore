@@ -1,6 +1,6 @@
 # vfda
 
-*.png
+#*.png
 *.gv
 *~
 .ctx-saved

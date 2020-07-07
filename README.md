@@ -6,9 +6,10 @@ View the poster on `NBViewer`: [![NBViewer](https://raw.githubusercontent.com/ju
 
 [**Balance of Plant Network Simulation for a Boiling Water Nuclear Reactor**](https://www.scipy2020.scipy.org/virtual-poster-session)
 
-<p style="text-align:center;"><b>Austin Rotker and Valmor F. de Almeida</b> <br> 
-Dept. of Chemical Engineering (Nuclear Program)<br>
-University of Massachusetts Lowell, USA </p> 
+ >Austin Rotker and [Valmor F. de Almeida](https://github.com/dpploy) <br>
+ >Dept. of Chemical Engineering (Nuclear Program) <br>
+ >University of Massachusetts Lowell, USA <br>
+
 
 |  |
 |---|

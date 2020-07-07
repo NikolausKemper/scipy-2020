@@ -4,7 +4,11 @@ First online conference; July 6-12 2020.
 
 View the poster on `NBViewer`: [![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/dpploy/scipy-2020/blob/master/poster.ipynb)
 
-[*Balance of Plant Network Simulation for a Boiling Water Nuclear Reactor*](https://www.scipy2020.scipy.org/virtual-poster-session)
+[**Balance of Plant Network Simulation for a Boiling Water Nuclear Reactor**](https://www.scipy2020.scipy.org/virtual-poster-session)
+
+<p style="text-align:center;"><b>Austin Rotker and Valmor F. de Almeida</b> <br> 
+Dept. of Chemical Engineering (Nuclear Program)<br>
+University of Massachusetts Lowell, USA </p> 
 
 |  |
 |---|

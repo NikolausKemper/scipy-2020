@@ -9,7 +9,7 @@ SciPy-2020 poster: *Balance of Plant Network Simulation for a Boiling Water Nucl
 
 |  |
 |---|
-| <img width="500" src="pictures/network-0.gv.png" title="Plant Layout">|
+| <img width="600" src="pictures/network-0.gv.png" title="Plant Layout">|
 | <p style="text-align:center;"><b>Balance of plant network.</b></p> |
 
 

@@ -1,4 +1,4 @@
-# [SciPy Conference 2020](https://www.scipy2020.scipy.org/schedule)
+# [Poster for SciPy Conference 2020](https://www.scipy2020.scipy.org/schedule)
 
 First online conference; July 6-12 2020.
 
